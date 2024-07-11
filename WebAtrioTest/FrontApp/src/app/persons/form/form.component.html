@@ -1,0 +1,33 @@
+<div class="container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header">
+            Ajouter Personne
+          </div>
+          <div class="card-body">
+            <form (ngSubmit)="addPerson()">
+              <div class="form-group">
+                <label for="nom">Nom</label>
+                <input type="text" class="form-control" id="name" [(ngModel)]="person.nom" name="nom" placeholder="Entrez votre nom">
+              </div>
+              <div class="form-group">
+                <label for="prenom">Prénom</label>
+                <input type="text" class="form-control" id="prenom" [(ngModel)]="person.prenom" name="prenom" placeholder="Entrez votre prenom">
+              </div>
+              <div class="form-group">
+                <label for="dob">Date de naissance</label>
+                <input type="date" [(ngModel)]="person.dateDeNaissance" class="form-control" id="dob" name="dob">
+              </div>
+             
+              <button type="submit" class="btn btn-primary">Soumettre</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  

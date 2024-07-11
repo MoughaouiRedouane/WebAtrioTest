@@ -1,0 +1,40 @@
+<!-- ajout-emploi.component.html -->
+
+<div class="container">
+    <h2>Ajouter un nouvel emploi</h2>
+  
+    <form (ngSubmit)="addWorkToPerson()">
+      <div class="form-group">
+        <label for="personne">Personne</label>
+        <select class="form-control" id="personne" [(ngModel)]="selectedPersonId" name="personne">
+          <option value="">Sélectionner une personne...</option>
+          <option value="1">Personne 1</option>
+          <option value="2">Personne 2</option>
+          <!-- Ajoutez d'autres options selon votre besoin -->
+        </select>
+      </div>
+  
+      <div class="form-group">
+        <label for="poste">Poste occupé</label>
+        <input type="text" class="form-control" id="poste" [(ngModel)]="posteOccupe" name="poste" placeholder="Entrez le poste occupé">
+      </div>
+  
+      <div class="form-group form-check">
+        <input type="checkbox" class="form-check-input" id="posteActuel" [(ngModel)]="posteActuellementOccupe" name="posteActuel">
+        <label class="form-check-label" for="posteActuel">Poste actuellement occupé</label>
+      </div>
+  
+      <div class="form-group">
+        <label for="dateDebut">Date de début</label>
+        <input type="date" class="form-control" id="dateDebut" [(ngModel)]="dateDebut" name="dateDebut">
+      </div>
+  
+      <div class="form-group">
+        <label for="dateFin">Date de fin (optionnelle pour le poste actuel)</label>
+        <input type="date" class="form-control" id="dateFin" [(ngModel)]="dateFin" name="dateFin">
+      </div>
+      
+      <button type="submit" class="btn btn-primary">Ajouter emploi</button>
+    </form>
+  </div>
+  

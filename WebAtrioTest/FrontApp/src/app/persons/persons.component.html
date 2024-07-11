@@ -1,0 +1,60 @@
+<div *ngIf="personneList" class="card">
+    <div class="card-body">
+        <div class="card-body d-flex justify-content-between align-items-center">
+            <h4 class="card-title mb-0">Personnes</h4>
+            <button type="button" class="btn btn-success" (click)="navigateToAddPersonForm()" >Ajouter Personne</button>
+          </div>
+        <div class="table-responsive">
+            <table class="table table-bordered align-middle text-nowrap">
+                <thead>
+                    <tr>
+                        <th class="text-dark font-medium fs-4">#</th>
+                        <th class="text-dark font-medium fs-4">Nom</th>
+                        <th class="text-dark font-medium fs-4">prenom</th>
+                        <th class="text-dark font-medium fs-4">Age</th>
+                        <th class="text-dark font-medium fs-4">Emploi</th>
+                        <th class="text-dark font-medium fs-4"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let person of persons">
+                        <td>
+                            {{ person.id}}
+                        </td>
+                        <td>
+                            {{person.nom }}
+                        </td>
+                        <td>
+                            {{person.prenom }}
+                        </td>
+                        <td>
+                            {{ person.age  }}
+                        </td>
+                        <td>
+                            {{ person.emploi  }}
+                        </td>
+                        <td>
+                           
+                              <button type="button" class="btn btn-link" (click)="addEmploi(person.id, person.nom, person.prenom)">
+                                <span class="bi bi-pencil" aria-hidden="true"></span> Ajouter un emploi
+                              </button>
+
+                            <a href="#" title="Edit" class="btn btn-link" (click)="editPerson(person.id)">
+                                <span class="bi bi-pencil" aria-hidden="true"></span> Edit
+                              </a>
+                              <span style="margin: 0 5px;"></span>
+                              <a href="#" title="Delete" class="btn btn-link text-danger" (click)="deletePerson(person.id)">
+                                <span class="bi bi-trash" aria-hidden="true"></span> Delete
+                              </a>
+                              
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<app-form *ngIf="showForm"></app-form>
+
+<app-form-add-emploi *ngIf="showFormForAddEmploi"></app-form-add-emploi>

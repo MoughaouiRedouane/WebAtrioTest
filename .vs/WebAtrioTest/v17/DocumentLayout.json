@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\databasecommunication\\queries\\ajouteremploiapersonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\databasecommunication\\queries\\ajouteremploiapersonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\databasecommunication\\queries\\getpersonnesbyentreprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\databasecommunication\\queries\\getpersonnesbyentreprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\controllers\\personnecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\controllers\\personnecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\controllers\\emploicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\controllers\\emploicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\databasecommunication\\model\\emploi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\databasecommunication\\model\\emploi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\databasecommunication\\queries\\getallpersonnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\databasecommunication\\queries\\getallpersonnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\databasecommunication\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\databasecommunication\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\databasecommunication\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\databasecommunication\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\webatriotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\webatriotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|c:\\users\\redouane\\desktop\\webatrio\\webatriotest\\webatriotest\\databasecommunication\\queries\\getemploisentredateofpersonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D986835A-3393-4F12-8BC9-ACCE24C031D7}|WebAtrioTest\\WebAtrioTest.csproj|solutionrelative:webatriotest\\databasecommunication\\queries\\getemploisentredateofpersonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllpersonnes.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\queries\\GetAllpersonnes.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\DataBaseCommunication\\queries\\GetAllpersonnes.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\queries\\GetAllpersonnes.cs",
+              "RelativeToolTip": "WebAtrioTest\\DataBaseCommunication\\queries\\GetAllpersonnes.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:49:53.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AjouterEmploiAPersonne.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\queries\\AjouterEmploiAPersonne.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\DataBaseCommunication\\queries\\AjouterEmploiAPersonne.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\queries\\AjouterEmploiAPersonne.cs",
+              "RelativeToolTip": "WebAtrioTest\\DataBaseCommunication\\queries\\AjouterEmploiAPersonne.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:28:24.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmploiController.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\Controllers\\EmploiController.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\Controllers\\EmploiController.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\Controllers\\EmploiController.cs",
+              "RelativeToolTip": "WebAtrioTest\\Controllers\\EmploiController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:21:24.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\Model\\Personne.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\DataBaseCommunication\\Model\\Personne.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\Model\\Personne.cs",
+              "RelativeToolTip": "WebAtrioTest\\DataBaseCommunication\\Model\\Personne.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:14:14.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonneController.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\Controllers\\PersonneController.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\Controllers\\PersonneController.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\Controllers\\PersonneController.cs",
+              "RelativeToolTip": "WebAtrioTest\\Controllers\\PersonneController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA6wDIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:32:15.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emploi.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\Model\\Emploi.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\DataBaseCommunication\\Model\\Emploi.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\Model\\Emploi.cs",
+              "RelativeToolTip": "WebAtrioTest\\DataBaseCommunication\\Model\\Emploi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:15:48.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetPersonnesByEntreprise.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\queries\\GetPersonnesByEntreprise.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\DataBaseCommunication\\queries\\GetPersonnesByEntreprise.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\queries\\GetPersonnesByEntreprise.cs",
+              "RelativeToolTip": "WebAtrioTest\\DataBaseCommunication\\queries\\GetPersonnesByEntreprise.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:25:12.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetEmploisEntreDateOfPersonne.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\queries\\GetEmploisEntreDateOfPersonne.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\DataBaseCommunication\\queries\\GetEmploisEntreDateOfPersonne.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\queries\\GetEmploisEntreDateOfPersonne.cs",
+              "RelativeToolTip": "WebAtrioTest\\DataBaseCommunication\\queries\\GetEmploisEntreDateOfPersonne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:54:02.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\Program.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\Program.cs",
+              "RelativeToolTip": "WebAtrioTest\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:40:31.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAtrioTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\appsettings.json",
+              "RelativeToolTip": "WebAtrioTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T10:34:13.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebAtrioTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\WebAtrioTest.csproj",
+              "RelativeDocumentMoniker": "WebAtrioTest\\WebAtrioTest.csproj",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\WebAtrioTest.csproj",
+              "RelativeToolTip": "WebAtrioTest\\WebAtrioTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T10:39:26.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebAtrioTest\\DataBaseCommunication\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Redouane\\Desktop\\WebAtrio\\WebAtrioTest\\WebAtrioTest\\DataBaseCommunication\\MyDbContext.cs",
+              "RelativeToolTip": "WebAtrioTest\\DataBaseCommunication\\MyDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:13:00.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
